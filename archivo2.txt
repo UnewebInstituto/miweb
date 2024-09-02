@@ -1,1 +1,3 @@
 contenido 1 archivo 2
+contenido 2 archivo 2
+Línea 3 de archivo 2
